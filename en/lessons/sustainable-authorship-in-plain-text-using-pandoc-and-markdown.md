@@ -703,7 +703,7 @@ and often free of cost. From the standalone ones, we liked
 have recently emerged that provide slick, graphic interfaces for
 collaborative writing and version tracking using Markdown. These
 include: [prose.io](http://prose.io),
-[Authorea](http://www.authorea.com), [Penflip](http://www.penflip.com),
+[Authorea](http://www.authorea.com),
 [Draft](http://www.draftin.com), and
 [StackEdit](https://stackedit.io).
 
